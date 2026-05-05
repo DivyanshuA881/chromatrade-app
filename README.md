@@ -1,2 +1,0 @@
-# chromatrade-app
-chromatrade-app
